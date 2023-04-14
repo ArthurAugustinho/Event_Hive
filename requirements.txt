@@ -1,0 +1,4 @@
+Digite estes codigos no terminal para ultilizar o programa:
+
+pip install pillow
+pip install django
