@@ -1,8 +1,7 @@
 {% extends 'bases/base.html' %}
 {% load static %}
-
 {% block 'head' %}
-<link href="{% static 'usuarios/css/usuarios.css' %}" rel="stylesheet">
+    <link href="{% static 'usuarios/css/usuarios.css' %}" rel="stylesheet">
 {% endblock %}
 
 {% block 'body' %}
@@ -13,7 +12,7 @@
             <div class="col-md">
                 <h3 class="logo">Event_Hive</h3>
 
-                {% include "partials/usuarios/cadastro.html" %}
+                {% include "partials/usuarios/login.html" %}
 
                 <img src="{% static 'geral/img/logo_evento.png' %}" class="logo-evento">
 
