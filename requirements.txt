@@ -1,4 +1,2 @@
-Digite estes codigos no terminal para ultilizar o programa:
-
-pip install pillow
-pip install django
+Django==3.2.16 # Framework
+pillow==8.4.0 # Manipulation of images in various formats
