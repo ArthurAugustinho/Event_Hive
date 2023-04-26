@@ -36,3 +36,5 @@
 - Access the admin panel
   - Go to http://localhost:8000
     - Port may differ if you change it on "runserver" command.
+- Access to urls
+  - `usuarios/cadastro/`
