@@ -12,6 +12,7 @@
 - Install the dependencies;
   - On `\Event-Hive-repo`
     - `pip install -r .\requirements.txt`
+    - 'python.exe -m pip install --upgrade pip'
 
 - Run initial management commands
 
